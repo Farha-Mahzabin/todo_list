@@ -26,3 +26,8 @@ ifstream fileRead("tasks.txt", ios::in | ios::binary);
 	cout << endl;
 	fileRead.close();
 }
+
+void deleteTask()
+{
+    
+}
